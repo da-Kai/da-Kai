@@ -1,3 +1,4 @@
+<!--
 ## 🧰 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/SOC-Raspberry_Pi-informational?style=flat&logo=Raspberry-Pi&logoColor=white&color=raspberry)
@@ -13,6 +14,7 @@
 ![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=blender&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gimp-informational?style=flat&logo=gimp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Learning-Udemy-informational?style=flat&logo=Udemy&logoColor=white&color=purple)
+-->
 
 ## 🖥️ Workspace
 ![](https://img.shields.io/badge/NVIDIA-GTX1060_6Gb-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
