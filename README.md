@@ -40,3 +40,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=da-Kai&repo=Hausi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 -->
+
+## 📋 Udemy
+https://www.udemy.com/certificate/UC-ecb66f41-bee0-4e1d-9f1f-024e610da167/
