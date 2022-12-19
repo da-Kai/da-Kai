@@ -42,4 +42,4 @@
 -->
 
 ## 📋 Udemy
-[https://www.udemy.com/certificate/UC-ecb66f41-bee0-4e1d-9f1f-024e610da167/](https://udemy-certificate.s3.amazonaws.com/image/UC-ecb66f41-bee0-4e1d-9f1f-024e610da167.jpg?v=1671136900000)
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-ecb66f41-bee0-4e1d-9f1f-024e610da167.jpg?v=1671136900000" height=100px />
