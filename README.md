@@ -30,6 +30,13 @@
   </a>
 </div>
 
+## 🔗 Find Me on
+<div>
+   <a href="https://www.thingiverse.com/da_kai">
+     <img src="https://cdn.thingiverse.com/site/img/favicons/favicon-32x32.png" alt="[T]" width="16" height="16"/>
+     Thingiverse
+  </a>
+</div>
 
 ## 🏆 Badges
 [![@dakai's Holopin board](https://holopin.me/dakai)](https://holopin.io/@dakai)
