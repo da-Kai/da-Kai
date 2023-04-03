@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/NVIDIA-GTX1060_6Gb-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i5_9600K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 <div>
   <a href="https://github.com/da-Kai/da-Kai">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=da-Kai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
@@ -29,6 +29,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-Kai&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   </a>
 </div>
+-->
 
 ## 🔗 Find Me on
 <div>
