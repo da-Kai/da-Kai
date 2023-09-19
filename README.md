@@ -1,20 +1,10 @@
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)
-
-## 🔗 Find Me on
-<div>
-   <a href="https://www.thingiverse.com/da_kai">
-     <img src="https://cdn.thingiverse.com/site/img/favicons/favicon-32x32.png" alt="[T]" width="16" height="16"/>
-     Thingiverse
-  </a>
-</div>
-
 <!--
 ## 🖥️ Workspace
-![](https://img.shields.io/badge/NVIDIA-GTX1060_6Gb-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![](https://img.shields.io/badge/Intel-Core_i5_9600K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/AMD-Radeon_7800XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/AMD-Ryzen_7_7800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 -->
+## 👤 About ME
+Hi I'm Kai, a passionate, trained Software-Developer from Germany.
 
 ## 📈 GitHub Stats
 <div>
@@ -26,9 +16,18 @@
   </a-->
 </div>
 
+## 🔗 Find Me on
+<div>
+   <a href="https://www.thingiverse.com/da_kai">
+     <img src="https://cdn.thingiverse.com/site/img/favicons/favicon-32x32.png" alt="[T]" width="16" height="16"/>
+     Thingiverse
+  </a>
+</div>
+
 ## 🏆 Badges
 [![@dakai's Holopin board](https://holopin.me/dakai)](https://holopin.io/@dakai)
-<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-ecb66f41-bee0-4e1d-9f1f-024e610da167.jpg?v=1671136900000" height=80px />
+
+<img title="Python" src="https://udemy-certificate.s3.amazonaws.com/image/UC-ecb66f41-bee0-4e1d-9f1f-024e610da167.jpg?v=1671136900000" height=80px />
 
 <!--
 ## 📋 Projects
