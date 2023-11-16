@@ -1,3 +1,4 @@
+
 <!--
 ## 🖥️ Workspace
 ![](https://img.shields.io/badge/AMD-Radeon_7800XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
@@ -5,6 +6,8 @@
 -->
 ## 👤 About ME
 Hi I'm Kai, a passionate, trained Software-Developer from Germany.
+
+<a href='https://ko-fi.com/daKai' target='_blank'><img height='20' style='border:0px;height:37px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 ## 📈 GitHub Stats
 <div>
