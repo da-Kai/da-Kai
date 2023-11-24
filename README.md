@@ -12,7 +12,7 @@ Hi I'm Kai, a passionate, trained Software-Developer from Germany.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=da-kai&theme=dark&hide_border=true)<br/>
 
 ## 🔗 Find Me on
-[![](https://cdn.thingiverse.com/site/img/favicons/favicon-16x16.png) Thingiverse](https://www.thingiverse.com/da_kai)
+[![](https://cdn.thingiverse.com/site/img/favicons/favicon-32x32.png)](https://www.thingiverse.com/da_kai)
 
 ## 🏆 Badges
 [![@dakai's Holopin board](https://holopin.me/dakai)](https://holopin.io/@dakai)
