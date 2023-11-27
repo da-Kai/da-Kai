@@ -9,8 +9,8 @@ Hi I'm Kai, a passionate, trained Software-Developer from Germany.
 <a href='https://ko-fi.com/daKai' target='_blank'><img height='32' style='border:0px;height:32px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=da-kai&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=da-kai&theme=dark&hide_border=true)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=da-kai&theme=highcontrast&hide_border=true&border_radius=20&include_all_commits=false&count_private=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=da-kai&theme=highcontrast&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
 ## 🔗 Find Me on
 [![](https://cdn.thingiverse.com/site/img/favicons/favicon-32x32.png)](https://www.thingiverse.com/da_kai)
