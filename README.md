@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=da-Kai.visitor-badge)
 [![web](https://img.shields.io/badge/web-da--kai.github.io-green)](https://da-kai.github.io/)
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=5000&color=22A7F7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+Im+da-Kai)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=5000&color=22A7F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋%2C+Im+da-Kai)](https://git.io/typing-svg)
 
 ## 👤 About ME
 Hi I'm Kai, a passionate, trained Software-Developer from Germany.
