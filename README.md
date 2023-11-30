@@ -2,7 +2,6 @@
 <img align="right" height='32' style='border:0px;height:32px;float:right' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' alt='Buy Me a Coffee' />
 </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=da-Kai.visitor-badge)
 [![web](https://img.shields.io/badge/web-da--kai.github.io-green)](https://da-kai.github.io/)
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=5000&color=22A7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+👋%2C+I'm+da-Kai+👨‍💻)](https://git.io/typing-svg)
