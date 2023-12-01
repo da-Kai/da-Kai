@@ -12,7 +12,6 @@
 
 - 🌍 Based in Germany
 - 🎓 Software Developer in my 20s
-- 🚀 On GitHub since 2022
 
 #### 💻 Tech Stack:
 
