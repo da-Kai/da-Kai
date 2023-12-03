@@ -11,7 +11,7 @@
 #### 👨‍💼 General
 
 - 🌍 Based in Germany
-- 🎓 Software Developer in my 20s
+- 🎓 Trained Software Developer
 
 #### 💻 Tech Stack:
 
