@@ -16,7 +16,7 @@
 #### 💻 Tech Stack:
 
 - 🚀 Advanced: Java, C++
-- 🌱 Learning: Python
+- 🌱 Learning: Python, Dart
 
 #### ✨ Current:
 
