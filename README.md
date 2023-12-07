@@ -27,6 +27,7 @@
 
 - 🎮 Gaming
 - 📚 Reading
+- 🖨️ 3D-Printing
 
 
 Let's code the future together! 💻✨
