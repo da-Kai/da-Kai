@@ -30,7 +30,7 @@
 - 🖨️ 3D-Printing
 
 
-Let's code the future together! 💻✨
+*Let's code the future together! 💻✨*
 
 
 ## 📈 GitHub Stats
