@@ -10,7 +10,7 @@
 
 #### 👨‍💼 General
 
-- 🌍 Based in Germany
+- 🌍 Based in Bavaria, Germany
 - 🎓 Trained Software Developer
 
 #### 💻 Tech Stack:
