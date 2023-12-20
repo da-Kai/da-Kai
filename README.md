@@ -31,11 +31,13 @@
 
 *Let's code the future together! 💻✨*
 
+<!--
+## Projects 
+![](https://github-readme-stats.vercel.app/api/pin/?username=da-Kai&repo=DartDart&theme=react&border_color=61dafb&border_radius=10)
+-->
 
 ## 📈 GitHub Stats
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=da-kai&theme=highcontrast&hide_border=true&border_radius=20&include_all_commits=false&count_private=false)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=da-kai&theme=highcontrast&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
 ## 🔗 Find Me on
