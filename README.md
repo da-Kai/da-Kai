@@ -41,7 +41,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=da-kai&theme=highcontrast&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
 ## 🔗 Find Me on
-[![](https://cdn.thingiverse.com/site/img/favicons/favicon-32x32.png)](https://www.thingiverse.com/da_kai)
+[![Thingiverse](https://img.shields.io/badge/thingiverse-%23121011.svg?style=for-the-badge&logo=thingiverse&logoColor=white&color=248bfb)](https://www.thingiverse.com/da_kai)
 
 ## 🏆 Badges
 
