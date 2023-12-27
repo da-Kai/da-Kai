@@ -32,7 +32,7 @@
 *Let's code the future together! 💻✨*
 
 ## 🛠️ Projects 
-![](https://github-readme-stats.vercel.app/api/pin/?username=da-Kai&repo=DartDart&theme=react&border_color=61dafb&border_radius=10)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=da-Kai&repo=DartDart&theme=react&border_color=61dafb&border_radius=10)](https://github.com/da-Kai/DartDart)
 
 ## 📈 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=da-kai&theme=highcontrast&hide_border=true&border_radius=20&include_all_commits=false&count_private=false)
