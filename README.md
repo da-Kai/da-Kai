@@ -21,7 +21,7 @@
 #### ✨ Current:
 
 - 🛠️ Active developer on [OpenEMS](https://github.com/OpenEMS/openems)
-- 💡 Interests: Software Development, 3D Printing, Docker, SoC
+- 💡 Interests: Software Development, 3D Printing, Docker
 
 #### 🎮 Hobbies:
 
