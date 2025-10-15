@@ -8,38 +8,30 @@
 
 ## 👤 About ME
 
-#### 👨‍💼 General
+#### General
 
-- 🌍 Based in Bavaria, Germany
-- 🎓 Trained Software Developer
+- Based in Bavaria, Germany
+- Trained Software Developer
 
-#### 💻 Tech Stack:
+#### Tech Stack:
 
-- 🚀 Advanced: Java, C++
-- 🌱 Learning: Python, Dart
+- Advanced: Java, C++, Docker
+- Learning: Python, Dart
 
-#### ✨ Current:
+#### Current:
 
-- 🛠️ Active developer on [OpenEMS](https://github.com/OpenEMS/openems)
-- 💡 Interests: Software Development, 3D Printing, Docker
-
-#### 🎮 Hobbies:
-
-- 🎮 Gaming
-- 📚 Reading
-- 🖨️ 3D-Printing
+- Active developer on [OpenEMS](https://github.com/OpenEMS/openems)
+- Interests: Software Development, 3D Printing, Containerization
 
 *Let's code the future together! 💻✨*
 
 ## 🛠️ Projects 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=da-Kai&repo=DartDart&theme=react&border_color=61dafb&border_radius=10)](https://github.com/da-Kai/DartDart)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=da-Kai&repo=DartDart&theme=react&border_color=61dafb&title_color61dafb=&border_radius=10)](https://github.com/da-Kai/DartDart)
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=da-Kai&repo=FrogletFrenzy&theme=react&border_color=95c798&title_color=95c798&icon_color=95c798&border_radius=10)](https://github.com/da-Kai/FrogletFrenzy) -->
 
 ## 📈 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=da-kai&theme=highcontrast&hide_border=true&border_radius=20&include_all_commits=false&count_private=false)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=da-kai&theme=highcontrast&hide_border=true&border_radius=20)](https://git.io/streak-stats)
-
-## 🔗 Find Me on
-[![Thingiverse](https://img.shields.io/badge/thingiverse-%23121011.svg?style=for-the-badge&logo=thingiverse&logoColor=white&color=248bfb)](https://www.thingiverse.com/da_kai)
 
 ## 🏆 Badges
 
