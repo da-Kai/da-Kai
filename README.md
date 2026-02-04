@@ -25,16 +25,19 @@
 
 *Let's code the future together! 💻✨*
 
-## 🛠️ Projects 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=da-Kai&repo=DartDart&theme=react&border_color=61dafb&title_color61dafb=&border_radius=10)](https://github.com/da-Kai/DartDart)
-<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=da-Kai&repo=FrogletFrenzy&theme=react&border_color=95c798&title_color=95c798&icon_color=95c798&border_radius=10)](https://github.com/da-Kai/FrogletFrenzy) -->
 
+## 🛠️ Projects 
+<!--[![](https://github-readme-stats.vercel.app/api/pin/?username=da-Kai&repo=DartDart&theme=react&border_color=61dafb&title_color61dafb=&border_radius=10)](https://github.com/da-Kai/DartDart)-->
+[[da-Kai/DartDart] *Dart-Scoreboard written in dart*](https://github.com/da-Kai/DartDart)
+
+<!--
 ## 📈 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=da-kai&theme=highcontrast&hide_border=true&border_radius=20&include_all_commits=false&count_private=false)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=da-kai&theme=highcontrast&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+-->
 
 ## 🏆 Badges
 
-![](https://github-profile-trophy.vercel.app/?username=da-kai&theme=dark)
+<!--![](https://github-profile-trophy.vercel.app/?username=da-kai&theme=dark)-->
 
 [![@dakai's Holopin board](https://holopin.me/dakai)](https://holopin.io/@dakai)
