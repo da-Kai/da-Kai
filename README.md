@@ -4,40 +4,33 @@
 
 [![web](https://img.shields.io/badge/web-da--kai.github.io-green)](https://da-kai.github.io/)
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=5000&color=22A7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+👋%2C+I'm+da-Kai+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=5000&color=22A7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+I'm+da-Kai)](https://git.io/typing-svg)
 
-## 👤 About ME
+## About ME
 
 #### General
 
 - Based in Bavaria, Germany
 - Trained Software Developer
 
-#### Tech Stack:
+#### Interests
 
-- Advanced: Java, C++, Docker
-- Learning: Python, Dart
-
-#### Current:
-
-- Active developer on [OpenEMS](https://github.com/OpenEMS/openems)
-- Interests: Software Development, 3D Printing, Containerization
+- Software Development & Deployment
+- 3D Printing
+- Containerization
 
 *Let's code the future together! 💻✨*
 
+## Projects 
 
-## 🛠️ Projects 
-<!--[![](https://github-readme-stats.vercel.app/api/pin/?username=da-Kai&repo=DartDart&theme=react&border_color=61dafb&title_color61dafb=&border_radius=10)](https://github.com/da-Kai/DartDart)-->
-[[da-Kai/DartDart] *Dart-Scoreboard written in dart*](https://github.com/da-Kai/DartDart)
+[![[da-Kai/DartDart] *Dart-Scoreboard written in dart*](https://github-stats.da-kai.de/api/pin/?username=da-Kai&repo=DartDart&theme=react&border_color=61dafb&title_color61dafb=&border_radius=10)](https://github.com/da-Kai/DartDart)
 
-<!--
-## 📈 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=da-kai&theme=highcontrast&hide_border=true&border_radius=20&include_all_commits=false&count_private=false)
+## GitHub Stats
+
+![Github Stats](https://github-stats.da-kai.de/api?username=da-kai&theme=highcontrast&hide_border=true&border_radius=20&include_all_commits=false&count_private=false)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=da-kai&theme=highcontrast&hide_border=true&border_radius=20)](https://git.io/streak-stats)
--->
 
-## 🏆 Badges
+## Badges
 
-<!--![](https://github-profile-trophy.vercel.app/?username=da-kai&theme=dark)-->
-
+![](https://github-profile-trophy.vercel.app/?username=da-kai&theme=dark)
 [![@dakai's Holopin board](https://holopin.me/dakai)](https://holopin.io/@dakai)
